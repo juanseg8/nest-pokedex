@@ -1,0 +1,6 @@
+# Archivos/carpetas que no quiero que docker copie
+
+dist/
+node_modules/
+.gitignore/
+.git/
